@@ -1,3 +1,7 @@
 this is the text file where the data has to be stashed to check how that works
 
 added the line 3 to update the changes -- change 1
+
+git changes line 5
+
+git change line 7
