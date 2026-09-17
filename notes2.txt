@@ -1,0 +1,1 @@
+this is the text file where the data has to be stashed to check how that works
