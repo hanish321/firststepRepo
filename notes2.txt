@@ -5,3 +5,23 @@ added the line 3 to update the changes -- change 1
 git changes line 5
 
 git change line 7
+
+20c3073 (HEAD -> feature/v1, origin/feature/v1) docs : updated the document
+4d68f32 feat: commit 1
+0c01c5d docs: added the notes 2 doc
+8c5775f added the notes text file
+98c773a add the function in feature/v1
+d248689 this is the commit message
+9ac206c Remove .sf from version control
+
+
+/////////////////
+
+20c3073 (HEAD -> feature/v1, origin/feature/v1) docs : updated the document
+4d68f32 feat: commit 1
+0c01c5d docs: added the notes 2 doc
+8c5775f added the notes text file
+98c773a add the function in feature/v1
+d248689 this is the commit message
+9ac206c Remove .sf from version control
+PS C:\Users\Hanish\Desktop\Git_Demos\git practise 16> 
