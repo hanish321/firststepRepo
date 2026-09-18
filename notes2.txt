@@ -24,4 +24,10 @@ d248689 this is the commit message
 98c773a add the function in feature/v1
 d248689 this is the commit message
 9ac206c Remove .sf from version control
+<<<<<<< HEAD
 PS C:\Users\Hanish\Desktop\Git_Demos\git practise 16> 
+
+
+=======
+PS C:\Users\Hanish\Desktop\Git_Demos\git practise 16> 
+>>>>>>> 5e7ffe26df7c9a43a9e5ceb26168f971247e62a1
